@@ -18,18 +18,6 @@ Here are some technologies and tools I work with:
 - **Machine Learning**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 - **Others**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Projects
-
-Here are some of the projects I’ve worked on:
-
-- **[Project Name](https://github.com/your-username/project-repo)**: Brief description of what the project does and the technologies used.
-- **[Another Project](https://github.com/your-username/another-repo)**: Brief description of what the project does and the technologies used.
-- **[Yet Another Project](https://github.com/your-username/yet-another-repo)**: Brief description of what the project does and the technologies used.
-
-## GitHub Stats
-
-![Matthew William Siregar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ## Contact
 
